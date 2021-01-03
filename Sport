@@ -359,3 +359,19 @@ http://yourdnshere.xyz:83/live/trevorparker/8177168823/378305.ts
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/378306.ts
 #EXTINF:-1,Eleven Sports 6
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/378307.ts 
+#EXTINF:-1,——- Poland ——-
+#EXTINF:-1,ELEVEN Sports 1 HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375682.ts
+#EXTINF:-1,Eleven Sports 2 FHD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375816.ts
+#EXTINF:-1,Eleven Sports 3 FHD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375817.ts
+#EXTINF:-1,Eleven Sports 4 HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375818.ts
+#EXTINF:-1,Eurosport 1 HD
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375686.ts
+#EXTINF:-1,Eurosport 2
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/375716.ts
+#EXTINF:-1,——- Azerbajan ——-
+#EXTINF:-1 ,Idman TV
+https://streams.livetv.az/azerbaijan/idman2_stream_sd/playlist.m3u8
