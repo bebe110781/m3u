@@ -1,566 +1,347 @@
-#EXTM3U
-#EXTINF:-1,——- France ——-
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678947
-#EXTINF:-1,RMC Sport News HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/624939
-#EXTINF:-1,RMC Sport 1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625254
-#EXTINF:-1,RMC Sport 2 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/86352
-#EXTINF:-1,RMC Sport 3 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625250
-#EXTINF:-1,RMC Sport 4 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625253
-#EXTINF:-1,RMC Story HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5638
-#EXTINF:-1,beIN Sports 1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5710
-#EXTINF:-1,beIN Sports 1 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12961
-#EXTINF:-1,beIN Sports 2 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12958
-#EXTINF:-1,beIN Sports 2 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5709
-#EXTINF:-1,beIN Sports 2
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12959
-#EXTINF:-1,beIN Sports 3 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5708
-#EXTINF:-1,beIN Sports 3 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12957
-#EXTINF:-1,beIN Sports 4 Max
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8562
-#EXTINF:-1,beIN Sports 6 Max
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8538
-#EXTINF:-1,beIN Sports 7 Max
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8537
-#EXTINF:-1,beIN Sports 8 Max HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12956
-#EXTINF:-1,beIN Sports 9 Max HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12954
-#EXTINF:-1,beIN Sports 10 Max FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12953
-#EXTINF:-1,Eurosport 1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5672
-#EXTINF:-1,Eurosport 1 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682922
-#EXTINF:-1,Eurosport 2 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5671
-#EXTINF:-1,Eurosport 2 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12951
-#EXTINF:-1,BFM Sport
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8560
-#EXTINF:-1,Equidia Life HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12950
-#EXTINF:-1,Equidia Live FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5675
-#EXTINF:-1,Equipe HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5676
-#EXTINF:-1,Equipe 21 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5674
-#EXTINF:-1,Foot+ 24
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5670
-#EXTINF:-1,InfoSport+ FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16915
-#EXTINF:-1,InfoSport+ HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12952
-#EXTINF:-1,InfoSport+
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5660
-#EXTINF:-1,Golf Channel FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16918
-#EXTINF:-1,Golf+ FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12948
-#EXTINF:-1,——- Italy ——-
-#EXTINF:-1,Sky.Sport.Serie.A
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/184
-#EXTINF:-1,Sky.Sport.NBA
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/148
-#EXTINF:-1,SkySport.Uno
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/149
-#EXTINF:-1,SkySport.Football
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/150
-#EXTINF:-1,SkySport.Arena
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/151
-#EXTINF:-1,SkySport.Collection
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/157
-#EXTINF:-1,SkySport24
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/152
-#EXTINF:-1,SkySport.F1
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/153
-#EXTINF:-1,Sky.Moto.Gp
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/154
-#EXTINF:-1,Super.Tennis
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/155
-#EXTINF:-1,Eurosport
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/169
-#EXTINF:-1,Eurosport2
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/170
-#EXTINF:-1,Sport.italia
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/168
-#EXTINF:-1,——- Germany ——-
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678834
-#EXTINF:-1,Sky Sports News FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13555
-#EXTINF:-1,Sky Sports News HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684431
-#EXTINF:-1,Sky Sport 1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684432
-#EXTINF:-1,Sky Sport 1 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683895
-#EXTINF:-1,Sky Sport 1
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9125
-#EXTINF:-1,Sky Sport 1 [B]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684429
-#EXTINF:-1,Sky Sport 2 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7362
-#EXTINF:-1,Sky Sport 2 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683896
-#EXTINF:-1,Sky Sport 3 [Match Time] FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13563
-#EXTINF:-1,Sky Sport 3 [Match Time] HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6182
-#EXTINF:-1,Sky Sport 4 [Match Time] FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13562
-#EXTINF:-1,Sky Sport 4 [Match Time] HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9127
-#EXTINF:-1,Sky Sport 5 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13561
-#EXTINF:-1,Sky Sport 5 [Match Time] FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9126
-#EXTINF:-1,Sky Sport 6 [Match Time] HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6181
-#EXTINF:-1,Sky Sport 7 [Match Time] HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6180
-#EXTINF:-1,Sky Sport 8 [Match Time] HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6179
-#EXTINF:-1,Sky Sport 9 [Match Time] HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6178
-#EXTINF:-1,Sky Sport 10 [Match Time] HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6177
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684430
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683408
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683409
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13538
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/73136
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684005
-#EXTINF:-1,Sky Sport Bundesliga 2 [Match Time] FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/135258
-#EXTINF:-1,Sky Sport Bundesliga 2 [Match Time] FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/62223
-#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/135671
-#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/62220
-#EXTINF:-1,Sky Sport Bundesliga 4 [Match Time] FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/91235
-#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/135335
-#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/62002
-#EXTINF:-1,Sky Sport Bundesliga 6 [Match Time] FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/619225
-#EXTINF:-1,Sky Sport Bundesliga 7 [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6198
-#EXTINF:-1,Sky Sport Bundesliga 8 [Match Time] FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6197
-#EXTINF:-1,Sky Sport Bundesliga 9 [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6196
-#EXTINF:-1,Sky Sport Bundesliga 10 [Match Time] FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6195
-#EXTINF:-1,DAZN 1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/661090
-#EXTINF:-1,DAZN 1 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625243
-#EXTINF:-1,DAZN 1 [B] HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/661088
-#EXTINF:-1,DAZN 2 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/661089
-#EXTINF:-1,DAZN 2 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/50775
-#EXTINF:-1,Sport1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6173
-#EXTINF:-1,Sport1 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8221
-#EXTINF:-1,Sport1 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8226
-#EXTINF:-1,Sport1+ FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679847
-#EXTINF:-1,Sport1+ HD [B]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679848
-#EXTINF:-1,Telekom Fußball 2 HD [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679822
-#EXTINF:-1,Telekom Fußball 1 HD [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679821
-#EXTINF:-1,Telekom Fußball 3 HD [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679823
-#EXTINF:-1,Telekom Fußball 4 HD [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679824
-#EXTINF:-1,Telekom Fußball 5 HD [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679825
-#EXTINF:-1,Telekom Fußball 6 HD [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679826
-#EXTINF:-1,Telekom Fußball 7 HD [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679827
-#EXTINF:-1,Telekom Eishockey 1 [Match Time] HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679671
-#EXTINF:-1,Telekom Eishockey 2 [Match Time] HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679672
-#EXTINF:-1,Telekom Eishockey 3 [Match Time] HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679673
-#EXTINF:-1,Telekom Eishockey 4 [Match Time] HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679676
-#EXTINF:-1,Telekom Basketball 1 [Match Time] HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679674
-#EXTINF:-1,Telekom Basketball 2 [Match Time] HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679675
-#EXTINF:-1,Eurosport 1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8218
-#EXTINF:-1,Eurosport 2 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9131
-#EXTINF:-1,Eurosport 2 Xtra FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13163
-#EXTINF:-1,Eurosport 2 Xtra HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9130
-#EXTINF:-1,Sport Digital FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8244
-#EXTINF:-1,Sport Digital HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6171
-#EXTINF:-1,Motorvision HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8222
-#EXTINF:-1,Auto Motor Sport FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9132
-#EXTINF:-1,FC Bayern TV HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9128
-#EXTINF:-1,DEL Sport 1 HD [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679851
-#EXTINF:-1,DEL Sport 2 HD [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679852
-#EXTINF:-1,DEL Sport 3 HD [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679853
-#EXTINF:-1,DEL Sport 4 HD [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679854
-#EXTINF:-1,DEL Sport 5 HD [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679855
-#EXTINF:-1,DEL Sport 6 HD [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679856
-#EXTINF:-1,——- Arabian ——-
-#EXTM3U
-#EXTINF:-1,beIN SPORTS 1 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/671.ts
-#EXTINF:-1,beIN SPORTS 2 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/672.ts
-#EXTINF:-1,beIN SPORTS 3 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/673.ts
-#EXTINF:-1,beIN SPORTS 4 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/674.ts
-#EXTINF:-1,beIN SPORTS 5 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/675.ts
-#EXTINF:-1,beIN SPORTS 6 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/676.ts
-#EXTINF:-1,beIN SPORTS 7 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/677.ts
-#EXTINF:-1,beIN SPORTS 8 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/678.ts
-#EXTINF:-1,beIN SPORTS 9 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/679.ts
-#EXTINF:-1,beIN SPORTS 10 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/680.ts
-#EXTINF:-1,beIN SPORTS 11 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/681.ts
-#EXTINF:-1,beIN SPORTS 12 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/682.ts
-#EXTINF:-1,beIN Sports 1 FHD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/693.ts
-#EXTINF:-1,beIN Sports 2 FHD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/694.ts
-#EXTINF:-1,beIN Sports 3 FHD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/695.ts
-#EXTINF:-1,beIN Sports 4 FHD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/696.ts
-#EXTINF:-1,beIN Sports 5 FHD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/697.ts
-#EXTINF:-1,beIN Sports 6 FHD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/698.ts
-#EXTINF:-1,beIN Sports 7 FHD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/699.ts
-#EXTINF:-1,beIN Sports 8 FHD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/700.ts
-#EXTINF:-1,beIN Sports 9 FHD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/701.ts
-#EXTINF:-1,beIN Sports 10 FHD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/702.ts
-#EXTINF:-1,beIN Sports 1 HD HEVC
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/589.ts
-#EXTINF:-1,beIN SPORTS 2 HD HEVC
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/590.ts
-#EXTINF:-1,beIN SPORTS 3 HD HEVC
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/591.ts
-#EXTINF:-1,beIN SPORTS 4 HD HEVC
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/592.ts
-#EXTINF:-1,beIN SPORTS 5 HD HEVC
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/593.ts
-#EXTINF:-1,beIN SPORTS 6 HD HEVC
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/594.ts
-#EXTINF:-1,beIN SPORTS 7 HD HEVC
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/595.ts
-#EXTINF:-1,beIN SPORTS 8 HD HEVC
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/596.ts
-#EXTINF:-1,beIN SPORTS 9 HD HEVC
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/597.ts
-#EXTINF:-1,beIN SPORTS 10 HD HEVC
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/598.ts
-#EXTINF:-1,——- Portugal——-
-#EXTINF:-1,SPORT TV 1 HD
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/376443.ts
-#EXTINF:-1,SPORT TV 1 HD 1080
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/376518.ts
-#EXTINF:-1,SPORT TV 2 HD
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/376442.ts
-#EXTINF:-1,SPORT TV 2 HD 1080
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/376519.ts
-#EXTINF:-1,SPORT TV 2 HD(1)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/376416.ts
-#EXTINF:-1,SPORT TV 3 HD
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/376441.ts
-#EXTINF:-1,SPORT TV 3 HD 1080
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/376520.ts
-#EXTINF:-1,SPORT TV 3HD
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/376529.ts
-#EXTINF:-1,SPORT TV 4
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/376440.ts
-#EXTINF:-1,SPORT TV 4 HD 1080
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/376521.ts
-#EXTINF:-1,SPORT TV 4HD
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/376439.ts
-#EXTINF:-1,SPORT TV 5
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/376438.ts
-#EXTINF:-1,SPORT TV 5 HD 1080
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/376522.ts
-#EXTINF:-1,SPORT TV 5HD
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/376437.ts
-#EXTINF:-1,SPORT TV+
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/376516.ts
-#EXTINF:-1,SPORT TV+  HD 1080
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/376517.ts
-#EXTINF:-1,Eleven Sports 1
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/378302.ts
-#EXTINF:-1,Eleven Sports 2
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/378303.ts
-#EXTINF:-1,Eleven Sports 3
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/378304.ts
-#EXTINF:-1,Eleven Sports 4
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/378305.ts
-#EXTINF:-1,Eleven Sports 5
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/378306.ts
-#EXTINF:-1,Eleven Sports 6
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/378307.ts 
-#EXTINF:-1,------- Spain -------
-#EXTINF:-1,bein Sportspana FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7248
-#EXTINF:-1,bein Sportspana HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8745
-#EXTINF:-1,beIN Sportspana
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13540
-#EXTINF:-1,DAZN 1 FHD VIP
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683544
-#EXTINF:-1,DAZN 2 HD VIP
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683545
-#EXTINF:-1,DAZN 1 [Web TV] FHD VIP
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683547
-#EXTINF:-1,DAZN 1 [Web TV] HD VIP
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683551
-#EXTINF:-1,La Liga TV BAR HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/669971
-#EXTINF:-1,Movistar La Liga FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16274
-#EXTINF:-1,Movistar La Liga 1 [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683144
-#EXTINF:-1,Movistar La Liga 2 [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683145
-#EXTINF:-1,Movistar La Liga 3 [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683142
-#EXTINF:-1,Movistar La Liga 9 [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683151
-#EXTINF:-1,Movistar La Liga 10 [Match Time]
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683152
-#EXTINF:-1,Movistar Vamos Bar
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683141
-#EXTINF:-1,Movistar Vamos FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682871
-#EXTINF:-1,Movistar Vamos HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682872
-#EXTINF:-1,Movistar Liga De Campeones FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/620686
-#EXTINF:-1,Movistar Liga De Campeones HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/620685
-#EXTINF:-1,Movistar Liga De Campeones 1 [Match Time] HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683153
-#EXTINF:-1,Movistar Deportes FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16278
-#EXTINF:-1,Movistar Deportes HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7240
-#EXTINF:-1,Movistar Deportes 2 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16277
-#EXTINF:-1,Movistar Deportes 2 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7239
-#EXTINF:-1,Movistar Futbol FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13551
-#EXTINF:-1,Movistar Futbol HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8783
-#EXTINF:-1,Movistar Futbol
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7238
-#EXTINF:-1,Movistar F1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7246
-#EXTINF:-1,Movistar F1 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13549
-#EXTINF:-1,Movistar F1
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/71971
-#EXTINF:-1,Movistar Golf FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7237
-#EXTINF:-1,Movistar Golf HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13550
-#EXTINF:-1,Gol TV
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13457
-#EXTINF:-1,Teledeporte
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7178
-#EXTINF:-1,Real Madrid Channel
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7182
-#EXTINF:-1,Tele Madrid
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679745
-#EXTINF:-1,Barca TV
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7250
-#EXTINF:-1,Eurosport 1 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8746
-#EXTINF:-1,Eurosport 2
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13531
-#EXTINF:-1,Viajar FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7170
-#EXTINF:-1,Toros HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13548
-#EXTINF:-1,ETB SAT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684922
-#EXTINF:-1,ETB 1
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684921
-#EXTINF:-1,ETB 2
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684923
-#EXTINF:-1,------- Poland -------
-#EXTINF:-1,Eleven Sports 2 FHD
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/375816.ts
-#EXTINF:-1,Eleven Sports 3 FHD
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/375817.ts
-#EXTINF:-1,Eleven Sports 4 HD
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/375818.ts
-#EXTINF:-1,ELEVEN SPORTS HD
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/375684.ts
-#EXTINF:-1,Eleven Sports HD ( 1080P )
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/375685.ts
-#EXTINF:-1,Polsat Sport Extra
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/375698.ts
-#EXTINF:-1,Polsat Sport Extra HD
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/375663.ts
-#EXTINF:-1,POLSAT SPORTS
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/375697.ts
-#EXTINF:-1,------- Nederland -------
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683257
-#EXTINF:-1,Ziggo Sport
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11387
-#EXTINF:-1,Ziggo Sport Extra FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625239
-#EXTINF:-1,Ziggo Sport Voetbal HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5112
-#EXTINF:-1,Ziggo Sport Golf FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5114
-#EXTINF:-1,Ziggo Sport Golf HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6460
-#EXTINF:-1,Ziggo Sport Racing FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13119
-#EXTINF:-1,Ziggo Sport Racing HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5111
-#EXTINF:-1,Ziggo Sport Select FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53267
-#EXTINF:-1,Ziggo Sport Select HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5113
-#EXTINF:-1,Ziggo Sport Docu FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5110
-#EXTINF:-1,Fox Sports 1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6487
-#EXTINF:-1,Fox Sports 1 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5143
-#EXTINF:-1,Fox Sports 2 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6486
-#EXTINF:-1,Fox Sports 2
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5142
-#EXTINF:-1,Fox Sports 3 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6485
-#EXTINF:-1,Fox Sports 3 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5141
-#EXTINF:-1,Fox Sports 4 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/64848
-#EXTINF:-1,Fox Sports 4 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/514522
-#EXTINF:-1,Fox Sports 5 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/64338
-#EXTINF:-1,Fox Sports 5 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/513532
-#EXTINF:-1,Fox Sports 6 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/131212
-#EXTINF:-1,Fox Sports 6 HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/513821
-#EXTINF:-1,Eurosport 1 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11444
-#EXTINF:-1,Eurosport 1
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11445
-#EXTINF:-1,Eurosport 2 FHD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11443
-#EXTINF:-1,------- Brazil -------
-#EXTINF:-1,Fox Premium 1 HD
-http://super1.ideaiptv.com:2052/bandook/3243243/27829
-#EXTINF:-1,Fox Premium 2 HD
-http://super1.ideaiptv.com:2052/bandook/3243243/27830
-#EXTINF:-1,Fox Sports
-http://super1.ideaiptv.com:2052/bandook/3243243/27831
-#EXTINF:-1,Fox Sports 2
-http://super1.ideaiptv.com:2052/bandook/3243243/27832
-#EXTINF:-1,Fox Sports 2 HD
-http://super1.ideaiptv.com:2052/bandook/3243243/27833
-#EXTINF:-1,Fox Sports HD
-http://super1.ideaiptv.com:2052/bandook/3243243/27834
-#EXTINF:-1,ESPN
-http://super1.ideaiptv.com:2052/bandook/3243243/27802
-#EXTINF:-1,ESPN 2 HD
-http://super1.ideaiptv.com:2052/bandook/3243243/27803
-#EXTINF:-1,ESPN Brasil FHD
-http://super1.ideaiptv.com:2052/bandook/3243243/27804
-#EXTINF:-1,ESPN Brasil HD
-http://super1.ideaiptv.com:2052/bandook/3243243/27805
-#EXTINF:-1,ESPN Extra FHD
-http://super1.ideaiptv.com:2052/bandook/3243243/27806
-#EXTINF:-1,ESPN Extra HD
-http://super1.ideaiptv.com:2052/bandook/3243243/27807
-#EXTINF:-1,ESPN FHD
-http://super1.ideaiptv.com:2052/bandook/3243243/27808
-#EXTINF:-1,ESPN HD
-http://super1.ideaiptv.com:2052/bandook/3243243/27809
-#EXTINF:-1,SporTV
-http://super1.ideaiptv.com:2052/bandook/3243243/27943
-#EXTINF:-1,SporTV 2
-http://super1.ideaiptv.com:2052/bandook/3243243/27944
-#EXTINF:-1,SporTV 2 FHD
-http://super1.ideaiptv.com:2052/bandook/3243243/27945
-#EXTINF:-1,SporTV 2 HD
-http://super1.ideaiptv.com:2052/bandook/3243243/27946
-#EXTINF:-1,SporTV 3
-http://super1.ideaiptv.com:2052/bandook/3243243/27947
-#EXTINF:-1,SporTV 3 FHD
-http://super1.ideaiptv.com:2052/bandook/3243243/27948
-#EXTINF:-1,SporTV 3 HD
-http://super1.ideaiptv.com:2052/bandook/3243243/27949
-#EXTINF:-1,SporTV FHD
-http://super1.ideaiptv.com:2052/bandook/3243243/27950
-#EXTINF:-1,SporTV HD
-http://super1.ideaiptv.com:2052/bandook/3243243/27951
+#EXTINF:-1,########## Sports ##########
+#EXTINF:-1,ЧЧ- SuperSport AF ЧЧ-
+http://mytv.fun:8080/max2580/xb1ibqunmh/682923
+#EXTINF:-1,SuperSport Variety 1 HD VIP AF
+http://mytv.fun:8080/max2580/xb1ibqunmh/678020
+#EXTINF:-1,SuperSport Variety 2 HD AF
+http://mytv.fun:8080/max2580/xb1ibqunmh/678021
+#EXTINF:-1,SuperSport Variety 3 HD VIP AF
+http://mytv.fun:8080/max2580/xb1ibqunmh/678022
+#EXTINF:-1,SuperSport Variety 4 HD VIP AF
+http://mytv.fun:8080/max2580/xb1ibqunmh/678023
+#EXTINF:-1,SuperSport Football HD VIP AF
+http://mytv.fun:8080/max2580/xb1ibqunmh/678024
+#EXTINF:-1,SuperSport Action FHD VIP AF
+http://mytv.fun:8080/max2580/xb1ibqunmh/683568
+#EXTINF:-1,SuperSport Motorsport HD VIP AF
+http://mytv.fun:8080/max2580/xb1ibqunmh/678025
+#EXTINF:-1,SuperSport Rugby HD VIP AF
+http://mytv.fun:8080/max2580/xb1ibqunmh/678026
+#EXTINF:-1,SuperSport Tennis HD VIP AF
+http://mytv.fun:8080/max2580/xb1ibqunmh/678027
+#EXTINF:-1,SuperSport Golf HD VIP AF
+http://mytv.fun:8080/max2580/xb1ibqunmh/678028
+#EXTINF:-1,SuperSport Premier League HD VIP AF
+http://mytv.fun:8080/max2580/xb1ibqunmh/678029
+#EXTINF:-1,SuperSport La Liga HD VIP AF
+http://mytv.fun:8080/max2580/xb1ibqunmh/683001
+#EXTINF:-1,SuperSport PSL HD VIP AF
+http://mytv.fun:8080/max2580/xb1ibqunmh/678030
+#EXTINF:-1,SuperSport Grandstand HD VIP AF
+http://mytv.fun:8080/max2580/xb1ibqunmh/678031
+#EXTINF:-1,SuperSport Maximo HD AF
+http://mytv.fun:8080/max2580/xb1ibqunmh/682919
+#EXTINF:-1,SuperSport Blitz FHD VIP AF
+http://mytv.fun:8080/max2580/xb1ibqunmh/682921
+#EXTINF:-1,ЧЧ- AFL & Optus Sports ЧЧ-
+http://mytv.fun:8080/max2580/xb1ibqunmh/683279
+#EXTINF:-1,Optus Sport [Match Time] HD VIP AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683977
+#EXTINF:-1,Optus 2 [Match Time] HD VIP AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683987
+#EXTINF:-1,Optus 3 [Match Time] HD VIP AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683979
+#EXTINF:-1,Optus 4 [Match Time] HD VIP AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683980
+#EXTINF:-1,Optus 5 [Match Time] HD VIP AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683981
+#EXTINF:-1,Optus 6 [Match Time] HD VIP AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683982
+#EXTINF:-1,Optus 7 [Match Time] HD VIP AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683983
+#EXTINF:-1,Optus 8 [Match Time] HD VIP AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683984
+#EXTINF:-1,Optus 9 [Match Time] HD VIP AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683985
+#EXTINF:-1,Optus 10 [Match Time] HD VIP AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683986
+#EXTINF:-1,AFL 1 [Match Time] HD AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683270
+#EXTINF:-1,AFL 2 [Match Time] HD AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683271
+#EXTINF:-1,AFL 3 [Match Time] HD AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683272
+#EXTINF:-1,AFL 4 [Match Time] HD AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683273
+#EXTINF:-1,AFL 5 [Match Time] HD AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683274
+#EXTINF:-1,AFL 6 [Match Time] HD AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683275
+#EXTINF:-1,AFL 7 [Match Time] HD AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683276
+#EXTINF:-1,AFL 8 [Match Time] HD AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683277
+#EXTINF:-1,AFL 9 [Match Time] HD AU
+http://mytv.fun:8080/max2580/xb1ibqunmh/683278
+#EXTINF:-1,ЧЧ- Italian Serie A ЧЧ-
+http://mytv.fun:8080/max2580/xb1ibqunmh/685496
+#EXTINF:-1,Sky Sport Serie A FHD IT
+http://mytv.fun:8080/max2580/xb1ibqunmh/685487
+#EXTINF:-1,Sky Sport Serie A HD IT
+http://mytv.fun:8080/max2580/xb1ibqunmh/685488
+#EXTINF:-1,Sky DAZN SAT FHD IT
+http://mytv.fun:8080/max2580/xb1ibqunmh/685484
+#EXTINF:-1,Sky DAZN SAT HD IT
+http://mytv.fun:8080/max2580/xb1ibqunmh/685486
+#EXTINF:-1,DAZN 1 FHD IT
+http://mytv.fun:8080/max2580/xb1ibqunmh/685489
+#EXTINF:-1,ЧЧ-  beIN Sports AR ЧЧ-
+http://mytv.fun:8080/max2580/xb1ibqunmh/682924
+#EXTINF:-1,beIN Sports News FHD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/676904
+#EXTINF:-1,beIN Sports 1 FHD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682932
+#EXTINF:-1,beIN Sports 1 HD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/5482
+#EXTINF:-1,beIN Sports 1 HD VIP AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/678748
+#EXTINF:-1,beIN Sports 2 FHD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682933
+#EXTINF:-1,beIN Sports 2 HD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/5481
+#EXTINF:-1,beIN Sports 3 FHD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682934
+#EXTINF:-1,beIN Sports 3 HD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/5480
+#EXTINF:-1,beIN Sports 4 HD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/5479
+#EXTINF:-1,beIN Sports 5 FHD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682935
+#EXTINF:-1,beIN Sports 5 HD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/5478
+#EXTINF:-1,beIN Sports 6 FHD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/54777
+#EXTINF:-1,beIN Sports 7 FHD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/683135
+#EXTINF:-1,beIN Sports 7 HD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/5476
+#EXTINF:-1,beIN Sports 8 HD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/53432
+#EXTINF:-1,beIN Sports 9 FHD VIP AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682936
+#EXTINF:-1,beIN Sports 9 HD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/5474
+#EXTINF:-1,beIN Sports 10 HD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/5473
+#EXTINF:-1,beIN Sports 11 FHD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/683410
+#EXTINF:-1,beIN Sports 11 HD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/667466
+#EXTINF:-1,beIN Sports 12 HD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/54715
+#EXTINF:-1,ЧЧ- beIN Sports US ЧЧ-
+http://mytv.fun:8080/max2580/xb1ibqunmh/682938
+#EXTINF:-1,beIN Sports HD US
+http://mytv.fun:8080/max2580/xb1ibqunmh/682942
+#EXTINF:-1,beIN Sports Espanol HD VIP US
+http://mytv.fun:8080/max2580/xb1ibqunmh/678747
+#EXTINF:-1,ЧЧ- beIN Sports TR ЧЧ-
+http://mytv.fun:8080/max2580/xb1ibqunmh/682925
+#EXTINF:-1,beIN Sports Haber HD TR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682950
+#EXTINF:-1,beIN Sports 1 HD TR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682946
+#EXTINF:-1,beIN Sports 2 FHD TR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682947
+#EXTINF:-1,beIN Sports 3 VIP TR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682948
+#EXTINF:-1,beIN Sports 4 FHD TR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682949
+#EXTINF:-1,beIN Sports Max 1 HD VIP TR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682953
+#EXTINF:-1,beIN Sports Max 2 HD VIP TR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682954
+#EXTINF:-1,ЧЧ- beIN Sports FR ЧЧ-
+http://mytv.fun:8080/max2580/xb1ibqunmh/682926
+#EXTINF:-1,beIN Sports 1 HD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682943
+#EXTINF:-1,beIN Sports 2 HD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682944
+#EXTINF:-1,beIN Sports 3 SD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682945
+#EXTINF:-1,beIN Sports Max 4 HD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/5470
+#EXTINF:-1,beIN Sports Max 5 FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/53604
+#EXTINF:-1,beIN Sports Max 6 FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/625242
+#EXTINF:-1,beIN Sports Max 7 FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/54678
+#EXTINF:-1,beIN Sports Max 8 FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/5466
+#EXTINF:-1,ЧЧ- RMC Sports FR ЧЧ-
+http://mytv.fun:8080/max2580/xb1ibqunmh/682960
+#EXTINF:-1,RMC Sport 1 FHD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682956
+#EXTINF:-1,RMC Sport 1 HD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/625226
+#EXTINF:-1,RMC Sport 2 FHD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682957
+#EXTINF:-1,RMC Sport 2 HD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682955
+#EXTINF:-1,RMC Sport 3 FHD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682958
+#EXTINF:-1,RMC Sport 3 HD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/625233
+#EXTINF:-1,RMC Sport 4 FHD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682959
+#EXTINF:-1,RMC Sport 4 HD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682961
+#EXTINF:-1,RMC Sport 5 [Match Time] FHD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682962
+#EXTINF:-1,RMC Sport 6 [Match Time] FHD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682963
+#EXTINF:-1,RMC Sport 7 [Match Time] FHD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682964
+#EXTINF:-1,RMC Sport 8 [Match Time] FHD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682965
+#EXTINF:-1,RMC Sport 9 [Match Time] FHD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682967
+#EXTINF:-1,RMC Sport 10 [Match Time] FHD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682966
+#EXTINF:-1,RMC Sport 11 [Match Time] FHD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682968
+#EXTINF:-1,RMC Sport 12 [Match Time] FHD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682969
+#EXTINF:-1,RMC Sport 13 [Match Time] FHD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682970
+#EXTINF:-1,RMC Sport 14 [Match Time] FHD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682971
+#EXTINF:-1,ЧЧ- Global Sports EN ЧЧ-
+http://mytv.fun:8080/max2580/xb1ibqunmh/683570
+#EXTINF:-1,Sky Sports Main Event FHD UK
+http://mytv.fun:8080/max2580/xb1ibqunmh/682993
+#EXTINF:-1,WWE Network HD VIP US
+http://mytv.fun:8080/max2580/xb1ibqunmh/683002
+#EXTINF:-1,Sky Sports Mix FHD UK
+http://mytv.fun:8080/max2580/xb1ibqunmh/683003
+#EXTINF:-1,Premier Sports 1 HD UK
+http://mytv.fun:8080/max2580/xb1ibqunmh/682991
+#EXTINF:-1,Premier Sports 2 HD UK
+http://mytv.fun:8080/max2580/xb1ibqunmh/682992
+#EXTINF:-1,Eir Sports 1 HD UK
+http://mytv.fun:8080/max2580/xb1ibqunmh/682994
+#EXTINF:-1,Eir Sports 2 HD UK
+http://mytv.fun:8080/max2580/xb1ibqunmh/682995
+#EXTINF:-1,Sky Sports Cricket HD UK
+http://mytv.fun:8080/max2580/xb1ibqunmh/684433
+#EXTINF:-1,Sky Sports Golf HD UK
+http://mytv.fun:8080/max2580/xb1ibqunmh/5396
+#EXTINF:-1,Liverpool FC TV FHD UK
+http://mytv.fun:8080/max2580/xb1ibqunmh/5425
+#EXTINF:-1,NBA TV HD US
+http://mytv.fun:8080/max2580/xb1ibqunmh/5450
+#EXTINF:-1,Freesports HD VIP UK
+http://mytv.fun:8080/max2580/xb1ibqunmh/682990
+#EXTINF:-1,ЧЧ- Global Sports AR ЧЧ-
+http://mytv.fun:8080/max2580/xb1ibqunmh/683571
+#EXTINF:-1,Saudi 24 FHD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/685725
+#EXTINF:-1,AD Sports 1 HD ARB
+http://mytv.fun:8080/max2580/xb1ibqunmh/682978
+#EXTINF:-1,AD Sports 2 HD ARB
+http://mytv.fun:8080/max2580/xb1ibqunmh/682979
+#EXTINF:-1,AD Sports 3 HD ARB
+http://mytv.fun:8080/max2580/xb1ibqunmh/682973
+#EXTINF:-1,AD Sports 4 FHD ARB
+http://mytv.fun:8080/max2580/xb1ibqunmh/5404
+#EXTINF:-1,AD Sports 5 HD ARB
+http://mytv.fun:8080/max2580/xb1ibqunmh/682974
+#EXTINF:-1,Dubai Sports 1 HD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682975
+#EXTINF:-1,Dubai Sports 2 HD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682976
+#EXTINF:-1,Sharjah Sport HD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682977
+#EXTINF:-1,Yas Sport HD AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682972
+#EXTINF:-1,DMC Sports AR
+http://mytv.fun:8080/max2580/xb1ibqunmh/5403
+#EXTINF:-1,ЧЧ- Global Sports TR ЧЧ-
+http://mytv.fun:8080/max2580/xb1ibqunmh/683572
+#EXTINF:-1,TRT Spor 1 FHD TR
+http://mytv.fun:8080/max2580/xb1ibqunmh/683139
+#EXTINF:-1,TRT Spor 2 FHD TR
+http://mytv.fun:8080/max2580/xb1ibqunmh/683140
+#EXTINF:-1,Tivibuspor 2 HD TR
+http://mytv.fun:8080/max2580/xb1ibqunmh/678942
+#EXTINF:-1,Tivibuspor 1 HD TR
+http://mytv.fun:8080/max2580/xb1ibqunmh/5439
+#EXTINF:-1,Tivibuspor 3 HD TR
+http://mytv.fun:8080/max2580/xb1ibqunmh/682980
+#EXTINF:-1,Smart Sport 1 HD TR
+http://mytv.fun:8080/max2580/xb1ibqunmh/5446
+#EXTINF:-1,ЧЧ- Global Sports ЧЧ-
+http://mytv.fun:8080/max2580/xb1ibqunmh/682927
+#EXTINF:-1,Telefoot Stadium HD FR
+http://mytv.fun:8080/max2580/xb1ibqunmh/679093
+#EXTINF:-1,Eleven Pro League 2 FHD BE
+http://mytv.fun:8080/max2580/xb1ibqunmh/683253
+#EXTINF:-1,Sport TV1 FHD PT
+http://mytv.fun:8080/max2580/xb1ibqunmh/5442
+#EXTINF:-1,Sport TV2 FHD PT
+http://mytv.fun:8080/max2580/xb1ibqunmh/5441
+#EXTINF:-1,Sport TV3 FHD PT
+http://mytv.fun:8080/max2580/xb1ibqunmh/5440
+#EXTINF:-1,Kombat Sport HD PT
+http://mytv.fun:8080/max2580/xb1ibqunmh/682981
+#EXTINF:-1,Real Madrid TV ES
+http://mytv.fun:8080/max2580/xb1ibqunmh/5402
+#EXTINF:-1,Digi Sport 1 FHD RO
+http://mytv.fun:8080/max2580/xb1ibqunmh/5454
+#EXTINF:-1,Digi Sport 2 HD RO
+http://mytv.fun:8080/max2580/xb1ibqunmh/5453
+#EXTINF:-1,Digi Sport 3 HD RO
+http://mytv.fun:8080/max2580/xb1ibqunmh/5452
+#EXTINF:-1,Digi Sport 4 HD RO
+http://mytv.fun:8080/max2580/xb1ibqunmh/682989
+#EXTINF:-1,Africa Sports TV HD AF
+http://mytv.fun:8080/max2580/xb1ibqunmh/682988
+#EXTINF:-1,Star Sports 1 FHD VIP IN
+http://mytv.fun:8080/max2580/xb1ibqunmh/5431
+#EXTINF:-1,TEN Sports FHD IN
+http://mytv.fun:8080/max2580/xb1ibqunmh/5433
+#EXTINF:-1,Star Sports 2 FHD IN
+http://mytv.fun:8080/max2580/xb1ibqunmh/5430
+#EXTINF:-1,Star Sports 3 HD IN
+http://mytv.fun:8080/max2580/xb1ibqunmh/5429
+#EXTINF:-1,Willow Cricket HD IN
+http://mytv.fun:8080/max2580/xb1ibqunmh/5437
+#EXTINF:-1,Sony Six SD IN
+http://mytv.fun:8080/max2580/xb1ibqunmh/5436
+#EXTINF:-1,GEO Super HD PK
+http://mytv.fun:8080/max2580/xb1ibqunmh/5434
+#EXTINF:-1,PTV Sports HD PK
+http://mytv.fun:8080/max2580/xb1ibqunmh/5435
+#EXTINF:-1,FightBox FHD PL
+http://mytv.fun:8080/max2580/xb1ibqunmh/5412
+#EXTINF:-1,VHockey FHD SE
+http://mytv.fun:8080/max2580/xb1ibqunmh/5417
+#EXTINF:-1,VGolf HD SE
+http://mytv.fun:8080/max2580/xb1ibqunmh/5421
+#EXTINF:-1,VFotboll SE
+http://mytv.fun:8080/max2580/xb1ibqunmh/5422
+#EXTINF:-1,VSport Premium HD SE
+http://mytv.fun:8080/max2580/xb1ibqunmh/5418
+#EXTINF:-1,Sky Sport Austria 1 FHD AT
+http://mytv.fun:8080/max2580/xb1ibqunmh/5394
+#EXTINF:-1,Sky Sport Austria 2 FHD AT
+http://mytv.fun:8080/max2580/xb1ibqunmh/5393
+#EXTINF:-1,Fight Channel HR
+http://mytv.fun:8080/max2580/xb1ibqunmh/12383
+#EXTINF:-1,Sport Klub HD 1 HR
+http://mytv.fun:8080/max2580/xb1ibqunmh/625227
+#EXTINF:-1,Sport Klub HD 2 HR
+http://mytv.fun:8080/max2580/xb1ibqunmh/7088
+#EXTINF:-1, Sport Klub HD 3 HR
+http://mytv.fun:8080/max2580/xb1ibqunmh/7087
+#EXTINF:-1,Sport Klub FHD 1 RS
+http://mytv.fun:8080/max2580/xb1ibqunmh/53164
+#EXTINF:-1,Sport Klub FHD 2 RS
+http://mytv.fun:8080/max2580/xb1ibqunmh/5444
+#EXTINF:-1,Sport Klub HD 3 RS
+http://mytv.fun:8080/max2580/xb1ibqunmh/5443
+#EXTINF:-1,Ziggo Sport Votball HD NL
+http://mytv.fun:8080/max2580/xb1ibqunmh/5392
+#EXTINF:-1,SuperSport FHD AL
+http://mytv.fun:8080/max2580/xb1ibqunmh/682920
